@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Referrence
+## Reference
 [Wes Bos](https://www.youtube.com/watch?v=XLJN4JfniH4)
 ## Available Scripts
 
